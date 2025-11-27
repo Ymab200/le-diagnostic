@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ton-site.com/sitemap.xml
+
+Sitemap: https://le-diagnostic.vercel.app/sitemap.xml
