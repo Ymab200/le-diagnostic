@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Activity, CheckCircle, ArrowRight, Sparkles, ChevronLeft, ChevronRight } from 'lucide-react';
 
+
 export default function BoosterSpermatozoides() {
   const [currentTip, setCurrentTip] = useState(0);
   const [simulationStep, setSimulationStep] = useState(0);
